@@ -1,5 +1,7 @@
 0.0.0.0 www.codesandbox.io
 0.0.0.0 www.vercel.com
+0.0.0.0 vercel.app
+0.0.0.0 vercel.com
 0.0.0.0 www.vercel.app
 0.0.0.0 onworks.net
 0.0.0.0 www.onworks.net
