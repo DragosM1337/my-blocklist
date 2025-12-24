@@ -581,4 +581,4 @@
 0.0.0.0 fellatrix.fanbox.cc
 0.0.0.0 fanbox.cc
 0.0.0.0 linktr.ee
-0.0.0.0 danb.me
+0.0.0.0 www.danb.me
