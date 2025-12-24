@@ -2,6 +2,7 @@
 0.0.0.0 www.vercel.com
 0.0.0.0 www.vercel.app
 0.0.0.0 onworks.net
+0.0.0.0 www.onworks.net
 0.0.0.0 ecosia.org
 0.0.0.0 reddit.com
 0.0.0.0 privacyredirect.com
