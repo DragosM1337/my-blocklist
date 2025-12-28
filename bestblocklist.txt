@@ -590,3 +590,7 @@
 0.0.0.0 linktr.ee
 0.0.0.0 www.danb.me
 0.0.0.0 danb.me
+0.0.0.0 Lumiproxy.com
+0.0.0.0 Freeproxy.me
+0.0.0.0 Blockaway.click
+0.0.0.0 mywebproxy.in
