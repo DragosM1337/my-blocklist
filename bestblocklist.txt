@@ -594,3 +594,5 @@
 0.0.0.0 Freeproxy.me
 0.0.0.0 Blockaway.click
 0.0.0.0 mywebproxy.in
+0.0.0.0 www.lumiproxy.com
+0.0.0.0 superproxysite.com
