@@ -53,7 +53,6 @@
 0.0.0.0 capturefullpage.com
 0.0.0.0 capturekit.dev
 0.0.0.0 cdn.croxyproxy.com
-0.0.0.0 chromewebstore.google.com
 0.0.0.0 clickminded.com
 0.0.0.0 coccoc.com
 0.0.0.0 copy.sh
