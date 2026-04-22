@@ -1,3 +1,4 @@
+0.0.0.0 searx.space
 0.0.0.0	01usevpn.website
 0.0.0.0	03usevpn.website
 0.0.0.0	04usevpn.website
