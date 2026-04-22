@@ -6284,3 +6284,4 @@
 0.0.0.0 zenmate.com
 0.0.0.0 zscalertwo.net
 0.0.0.0 zwyr157wwiu6eior.com
+0.0.0.0 savethevideo.com
