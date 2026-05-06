@@ -1,3 +1,4 @@
+0.0.0.0 mojeek.com
 0.0.0.0 searxng.org
 0.0.0.0 searx.org
 0.0.0.0 searx.space
