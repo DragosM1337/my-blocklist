@@ -1,6 +1,9 @@
 0.0.0.0 mojeek.com
+0.0.0.0 www.mojeek.com
 0.0.0.0 qwant.com
+0.0.0.0 www.qwant.com
 0.0.0.0 search.lilo.org
+0.0.0.0 www.search.lilo.org
 0.0.0.0 searxng.org
 0.0.0.0 searx.org
 0.0.0.0 searx.space
