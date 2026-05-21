@@ -1417,6 +1417,8 @@
 0.0.0.0 dns.east.comss.one
 0.0.0.0 router.comss.one
 0.0.0.0 hk.conana.info
+0.0.0.0 pornbeach18.com
+0.0.0.0 dogpile.com
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
 0.0.0.0 connect-with.click
