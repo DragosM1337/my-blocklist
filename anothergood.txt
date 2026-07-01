@@ -6358,3 +6358,5 @@
 0.0.0.0 search.url4irl.com
 0.0.0.0 sx.catgirl.cloud
 0.0.0.0 searx.mxchange.org
+0.0.0.0 sin-synth.ai
+
