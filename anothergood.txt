@@ -6359,4 +6359,7 @@
 0.0.0.0 sx.catgirl.cloud
 0.0.0.0 searx.mxchange.org
 0.0.0.0 sin-synth.ai
-
+0.0.0.0 metacyber.guru
+0.0.0.0 proxymule.com
+0.0.0.0 hproxy.com
+0.0.0.0 myhiden.net
