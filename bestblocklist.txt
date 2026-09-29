@@ -4369,8 +4369,6 @@
 0.0.0.0 dns.wibenson.cloud
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 adguard.wifri.space
-0.0.0.0 wikimedia-dns.org
-0.0.0.0 wikimediadns.org
 0.0.0.0 dns-1.wil.cloud
 0.0.0.0 dns-2.wil.cloud
 0.0.0.0 adguard.wild.ro
@@ -11507,8 +11505,6 @@
 0.0.0.0 wiefy.com
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 adguard.wifri.space
-0.0.0.0 wikimedia-dns.org
-0.0.0.0 wikimediadns.org
 0.0.0.0 wiksa.com
 0.0.0.0 dns-1.wil.cloud
 0.0.0.0 dns-2.wil.cloud
