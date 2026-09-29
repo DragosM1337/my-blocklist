@@ -15564,9 +15564,6 @@
 0.0.0.0 wificallingapp.com
 0.0.0.0 wifimeshnet.cc
 0.0.0.0 wii23upuz2in4.online
-0.0.0.0 wikimedia-dns.org
-0.0.0.0 wikimediadns.org
-0.0.0.0 wikivpn.org
 0.0.0.0 wiksa.com
 0.0.0.0 wildflower-bistro.com
 0.0.0.0 wilway.christmas
