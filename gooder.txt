@@ -1317,11 +1317,8 @@
 0.0.0.0 tempshf.world.cdn.cloudflare.net
 0.0.0.0 shemadefuckingbeans.wtf.cdn.cloudflare.net
 0.0.0.0 vps.justicenetworks.xyz.cdn.cloudflare.net
-0.0.0.0 study.wiki-edu.xyz.cdn.cloudflare.net
 0.0.0.0 brunycraft.xyz.cdn.cloudflare.net
 0.0.0.0 mathematicsedu.xyz.cdn.cloudflare.net
-0.0.0.0 dns.cloudflare.com
-0.0.0.0 api.cloudflareclient.com
 0.0.0.0 d101vabyweqq2v.cloudfront.net
 0.0.0.0 d1030frha4pi98.cloudfront.net
 0.0.0.0 d10zu8ijzdhnhd.cloudfront.net
@@ -2757,7 +2754,6 @@
 0.0.0.0 warawarexeza34216547.easterndns.com
 0.0.0.0 what-is-interstellar-all-i-know-is-linewize.easterndns.com
 0.0.0.0 why-is-my-popcorn-so-gorilla.easterndns.com
-0.0.0.0 wikipedia-s.easterndns.com
 0.0.0.0 wwww-mmmm-1424.easterndns.com
 0.0.0.0 xrfyuectyxpczv4zi9kthp4kj6tfarwcis8cw8zq.easterndns.com
 0.0.0.0 yahoo-search-s.easterndns.com
