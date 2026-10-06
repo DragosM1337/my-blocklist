@@ -1,3 +1,7 @@
+0.0.0.0 www.archive.org
+0.0.0.0 archive.org
+0.0.0.0 www.ecosia.org
+0.0.0.0 ecosia.org
 0.0.0.0 www.peekstr.com
 0.0.0.0 peekstr.com
 0.0.0.0 www.youtubeunblocked.live
