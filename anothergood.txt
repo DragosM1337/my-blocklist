@@ -1,3 +1,9 @@
+0.0.0.0 kavin.rocks
+0.0.0.0 www.kavin.rocks
+0.0.0.0 redlib.nadeko.net
+0.0.0.0 www.redlib.nadeko.net
+0.0.0.0 libreddit.kavin.rocks
+0.0.0.0 www.libreddit.kavin.rocks
 0.0.0.0 fbunblocker.net
 0.0.0.0 www.fbunblocker.net
 0.0.0.0 netlify.app
