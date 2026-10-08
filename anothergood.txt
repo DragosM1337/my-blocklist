@@ -1,3 +1,7 @@
+0.0.0.0 www.search.mizuki.st
+0.0.0.0 search.mizuki.st
+0.0.0.0 www.redlib.mizuki.st
+0.0.0.0 redlib.mizuki.st
 0.0.0.0 www.mizuki.st
 0.0.0.0 mizuki.st
 0.0.0.0 www.nitter.mizuki.st
