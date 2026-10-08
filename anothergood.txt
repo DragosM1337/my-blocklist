@@ -1,3 +1,7 @@
+0.0.0.0 youtubeunblocker.org
+0.0.0.0 www.youtubeunblocker.org
+0.0.0.0 unblockyoutube.video
+0.0.0.0 www.unblockyoutube.video
 0.0.0.0 www.archive.org
 0.0.0.0 archive.org
 0.0.0.0 www.ecosia.org
