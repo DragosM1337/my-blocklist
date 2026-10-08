@@ -1,3 +1,17 @@
+0.0.0.0 nitter.fullex.fr
+0.0.0.0 www.nitter.fullex.fr
+0.0.0.0 nitter.thekitten.space
+0.0.0.0 www.nitter.thekitten.space
+0.0.0.0 nitter.wisq.net
+0.0.0.0 www.nitter.wisq.net
+0.0.0.0 nitter.zebes.info
+0.0.0.0 www.nitter.zebes.info
+0.0.0.0 x.n0g.xyz
+0.0.0.0 www.x.n0g.xyz
+0.0.0.0 tw.eir-nya.gay
+0.0.0.0 www.tw.eir-nya.gay
+0.0.0.0 xcopy.uk
+0.0.0.0 www.xcopy.uk
 0.0.0.0 www.nitter.anoxinon.de
 0.0.0.0 nitter.anoxinon.de
 0.0.0.0 www.nitter6.kabii.moe
