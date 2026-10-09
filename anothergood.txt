@@ -1,3 +1,9 @@
+0.0.0.0 www.zoomblr.com
+0.0.0.0 zoomblr.com
+0.0.0.0 www.rl.bcow.xyz
+0.0.0.0 rl.bcow.xyz
+0.0.0.0 www.twillot.com
+0.0.0.0 twillot.com
 0.0.0.0 www.shifter.io
 0.0.0.0 shifter.io
 0.0.0.0 www.redlib.cow.rip
