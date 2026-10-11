@@ -1,3 +1,17 @@
+0.0.0.0 cdn.youtubeunblocked.live
+0.0.0.0 www.cdn.youtubeunblocked.live
+0.0.0.0 Proxysale.com
+0.0.0.0 www.Proxysale.com
+0.0.0.0 netrelay.proxysale.com
+0.0.0.0 www.netrelay.proxysale.com
+0.0.0.0 proxio.bestproxy.com
+0.0.0.0 www.proxio.bestproxy.com
+0.0.0.0 bestproxy.com
+0.0.0.0 www.bestproxy.com
+0.0.0.0 datatech.icu
+0.0.0.0 www.datatech.icu
+0.0.0.0 sur.ly
+0.0.0.0 www.sur.ly
 0.0.0.0 www.web.archive.org
 0.0.0.0 web.archive.org
 0.0.0.0 www.zoomblr.com
