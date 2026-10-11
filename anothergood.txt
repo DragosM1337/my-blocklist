@@ -1,3 +1,5 @@
+0.0.0.0 www.web.archive.org
+0.0.0.0 web.archive.org
 0.0.0.0 www.zoomblr.com
 0.0.0.0 zoomblr.com
 0.0.0.0 www.rl.bcow.xyz
