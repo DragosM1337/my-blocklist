@@ -1,3 +1,5 @@
+0.0.0.0 www.twitterwebviewer.net
+0.0.0.0 twitterwebviewer.net
 0.0.0.0 cdn.youtubeunblocked.live
 0.0.0.0 www.cdn.youtubeunblocked.live
 0.0.0.0 Proxysale.com
