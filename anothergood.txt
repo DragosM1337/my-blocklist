@@ -1,3 +1,5 @@
+0.0.0.0 www.socialfetch.dev
+0.0.0.0 socialfetch.dev
 0.0.0.0 snapany.com
 0.0.0.0 www.snapany.com
 0.0.0.0 hhm.show
