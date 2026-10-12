@@ -1,3 +1,5 @@
+0.0.0.0 www.xhancer.com
+0.0.0.0 xhancer.com
 0.0.0.0 www.postel.app
 0.0.0.0 postel.app
 0.0.0.0 www.socialfetch.dev
