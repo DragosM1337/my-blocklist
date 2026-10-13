@@ -1,3 +1,5 @@
+0.0.0.0 profileri.com
+0.0.0.0 www.profileri.com
 0.0.0.0 fmhy.net
 0.0.0.0 www.fmhy.net
 0.0.0.0 nadeko.net
