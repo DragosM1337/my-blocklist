@@ -1,3 +1,5 @@
+0.0.0.0 www.swisscows.com
+0.0.0.0 swisscows.com
 0.0.0.0 www.100searchengines.com
 0.0.0.0 www.alltheinternet.com
 0.0.0.0 www.andisearch.com
