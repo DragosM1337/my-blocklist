@@ -1,3 +1,15 @@
+0.0.0.0 xprivo.com
+0.0.0.0 www.xprivo.com
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+0.0.0.0 kagi.com
+0.0.0.0 www.kagi.com
+0.0.0.0 extractpics.com
+0.0.0.0 www.extractpics.com
+0.0.0.0 virtualbrowser.online
+0.0.0.0 www.virtualbrowser.online
+0.0.0.0 twitterviewer.app
+0.0.0.0 www.twitterviewer.app
 0.0.0.0 ss.0001.xyz
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.010812.xyz
