@@ -870272,7 +870272,6 @@
 0.0.0.0 vikingelectric.com
 0.0.0.0 vikingeng.com
 0.0.0.0 vikingeskibsmuseet.dk
-0.0.0.0 vikingfile.com
 0.0.0.0 vikingfoods.ca
 0.0.0.0 vikingfotball.no
 0.0.0.0 vikinggenetics.us
