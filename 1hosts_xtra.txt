@@ -870224,7 +870224,6 @@
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 vik-sad.ru
 0.0.0.0 vik.wiki
-0.0.0.0 vik1ngfile.site
 0.0.0.0 vika-vs-boris.ru
 0.0.0.0 vikan.com
 0.0.0.0 vikartech.com
