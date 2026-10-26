@@ -832334,7 +832334,6 @@
 0.0.0.0 transfer.amcorgroup.net
 0.0.0.0 transfer.degree
 0.0.0.0 transfer.go.com
-0.0.0.0 transfer.it
 0.0.0.0 transfer.sec.miui.com
 0.0.0.0 transfer.software
 0.0.0.0 transfer1515.com
