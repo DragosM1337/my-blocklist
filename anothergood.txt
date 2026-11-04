@@ -1,4 +1,12 @@
-0.0.0.0 Yandex.com
+0.0.0.0 twitterapi.io
+0.0.0.0 www.twitterapi.io
+0.0.0.0 redlib-1.privadency.com
+0.0.0.0 www.redlib-1.privadency.com
+0.0.0.0 privadency.com
+0.0.0.0 www.privadency.com
+0.0.0.0 greycoder.com
+0.0.0.0 www.greycoder.com
+0.0.0.0 yandex.com
 0.0.0.0 www.yandex.com
 0.0.0.0 rapusia.org
 0.0.0.0 www.rapusia.org
