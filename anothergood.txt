@@ -1,3 +1,7 @@
+0.0.0.0 www.perplexity.ai
+0.0.0.0 perplexity.ai
+0.0.0.0 www.payate.com
+0.0.0.0 payate.com
 0.0.0.0 twitterapi.io
 0.0.0.0 www.twitterapi.io
 0.0.0.0 redlib-1.privadency.com
