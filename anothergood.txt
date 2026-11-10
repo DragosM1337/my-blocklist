@@ -1,3 +1,5 @@
+0.0.0.0 www.nitter.cf
+0.0.0.0 nitter.cf
 0.0.0.0 www.nitter.catsearch.com
 0.0.0.0 nitter.catsearch.com
 0.0.0.0 www.finchview.com
