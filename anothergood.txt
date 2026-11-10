@@ -1,3 +1,7 @@
+0.0.0.0 shi.meowing.de
+0.0.0.0 www.shi.meowing.de
+0.0.0.0 nitter.mie.foundation
+0.0.0.0 www.nitter.mie.foundation
 0.0.0.0 nitter.gq
 0.0.0.0 www.nitter.gq
 0.0.0.0 xitter.gq
