@@ -1,3 +1,5 @@
+0.0.0.0 www.xnotme.com
+0.0.0.0 xnotme.com
 0.0.0.0 www.xnologin.com
 0.0.0.0 xnologin.com
 0.0.0.0 shi.meowing.de
